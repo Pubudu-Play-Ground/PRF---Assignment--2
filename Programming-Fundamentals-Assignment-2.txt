@@ -40,6 +40,11 @@ conditions - assigning value shoud be in the range and it should be a compile ti
 Explicit Narrowing Conversions (Casting):
 Explicit narrowing conversions, also known as casting, occur when a value of a larger data type is explicitly converted to a variable of a smaller data type using a cast operator. 
 
+7.
+float data type representation is differnt than the long data type representation. floats can represent large values than long data type. whether long has 64 bits and float has 32 bits, float data type can represent long data type because of teh data type representing format is different.  
+When assigning a long value to a float, the Java compiler performs the conversion automatically, and no explicit casting is required. However, it is important to be aware that the float type can only precisely represent a subset of long values, and any long value with more significant bits than the float type can handle may lose precision.
+
+
 
 
 
