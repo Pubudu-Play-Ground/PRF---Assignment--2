@@ -13,7 +13,14 @@ case sensitive languages :- C, C++, Java, Swift, JavaScript, Python
 Case Insensive - in this type of languages uppercase and lowercase letters are considered equivalent when using identifiers such as variable names. Ex:-, "Java" and "java" would be treated same identifiers
 ex:SQL, HTML, CSS, and XML
 
+3.
+Identity Conversion - It is a type conversion operation that involves converting a value of a specific data type to the same data type without any change in the actual value. 
+ex:
+int num1 = 100;
+long num2 = num1;
 
+String str1 = "Hello";
+String str2 = str;
 
 
 
