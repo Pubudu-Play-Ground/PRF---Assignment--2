@@ -22,6 +22,10 @@ long num2 = num1;
 String str1 = "Hello";
 String str2 = str;
 
+4.
+In Java, primitive widening conversion is a kind conversion that routinely promotes a value of a smaller data type kind to a large data type kind except any loss of data. This conversion is carried out with the aid of the Java compiler and is secure due to the fact the large data kind can keep all feasible values of the smaller data type. 
+
+
 
 
 
