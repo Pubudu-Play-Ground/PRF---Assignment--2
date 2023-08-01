@@ -1,0 +1,29 @@
+1.
+Statically Typed Language - it is a language which checking the data types (int, long, floats, long etc) of declared variables at the compile time. 
+Dynamically Typed Language - it is a language which checking the data types of declared variables at the run time(when executing).
+Strongly Typed Language - strictly consider about the data types of variables at compiloe time and runtime.  
+Loosely Typed Language - doesn't consider about the data type of variables.It allows for implicit type conversions and flexible data type usage. 
+java is statically typed and strongly typed language.
+
+2.
+Case Sensitive - it is use to differentiate between uppercase and lowercase letters when using identifiers. 
+Ex:-, "Java" and "java" would be treated as two different identifiers
+case sensitive languages :- C, C++, Java, Swift, JavaScript, Python
+
+Case Insensive - in this type of languages uppercase and lowercase letters are considered equivalent when using identifiers such as variable names. Ex:-, "Java" and "java" would be treated same identifiers
+ex:SQL, HTML, CSS, and XML
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
